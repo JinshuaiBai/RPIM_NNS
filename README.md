@@ -23,6 +23,6 @@ https://
 # Contact us
 For questions regarding the code, please contact:
 
-jinshuaibai@gmail.com  
-yuantong.gu@qut.edu.au  
-liugr@ucmail.uc.edu
+Dr. Jinshuai Bai: jinshuaibai@gmail.com  
+Prof. YuanTong Gu: yuantong.gu@qut.edu.au  
+Prof. Gui-Rong Liu: liugr@ucmail.uc.edu
