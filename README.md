@@ -1,6 +1,6 @@
-# Radial_Energy_Method (REM)
+# Radial point interpolation method empowered with neural network solvers (RPIM-NN)
 
-This repository provides MATLAB codes for the **radial energy method** (**REM**). 
+This repository provides MATLAB codes for the **RPIM-NN**. 
 
 The energy-based physics-informed neural network (PINN) has opened a new way for computational mechanics and has received great attention in recent years. However, such type of PINN is unstable and can frequently generate unphysical ‘fracture’ failures, which greatly barriers its further applications. 
 
@@ -18,11 +18,10 @@ https://
  - MATLAB 2022b
 
 # Cite as
-[1] J. Bai, G.-R. Liu, L. Alzubaidi, X.-Q. Feng, Y. Gu, Why the energy-based PINN fails for computational mechanics? A radial energy method (REM) for nonlinear computational mechanics, Arxiv preprint(2023). 
+[1] J. Bai, G.-R. Liu, T. Rabczuk, Y. Wang, X.-Q. Feng, Y.T. Gu, A robust radial point interpolation method empowered with neural network solvers for nonlinear solid mechanics, Arxiv preprint(2024). 
 
 # Contact us
 For questions regarding the code, please contact:
 
 Dr. Jinshuai Bai: jinshuaibai@gmail.com  
 Prof. YuanTong Gu: yuantong.gu@qut.edu.au  
-Prof. Gui-Rong Liu: liugr@ucmail.uc.edu
