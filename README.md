@@ -1,6 +1,6 @@
-# Radial point interpolation method empowered with neural network solvers (RPIM-NN)
+# Radial point interpolation method empowered with neural network solvers (RPIM-NNS)
 
-This repository provides MATLAB codes for the **RPIM-NN**. 
+This repository provides MATLAB codes for the **RPIM-NNS**. 
 
 The energy-based physics-informed neural network (PINN) has opened a new way for computational mechanics and has received great attention in recent years. However, such type of PINN is unstable and can frequently generate unphysical ‘fracture’ failures, which greatly barriers its further applications. 
 
@@ -18,7 +18,7 @@ https://
  - MATLAB 2022b
 
 # Cite as
-[1] J. Bai, G.-R. Liu, T. Rabczuk, Y. Wang, X.-Q. Feng, Y.T. Gu, A robust radial point interpolation method empowered with neural network solvers for nonlinear solid mechanics, Arxiv preprint(2024). 
+[1] J. Bai, G.-R. Liu, T. Rabczuk, Y. Wang, X.-Q. Feng, Y.T. Gu, A robust radial point interpolation method empowered with neural network solvers (RPIM-NNS) for nonlinear solid mechanics, Arxiv preprint(2024). 
 
 # Contact us
 For questions regarding the code, please contact:
