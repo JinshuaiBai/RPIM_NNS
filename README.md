@@ -22,5 +22,5 @@ https://
 # Contact us
 For questions regarding the code, please contact:
 
-Dr. Jinshuai Bai: jinshuaibai@gmail.com or bjs@tsinghua.edu.cn  
+Dr. Jinshuai Bai: jinshuaibai@gmail.com or bjs@mail.tsinghua.edu.cn  
 Prof. YuanTong Gu: yuantong.gu@qut.edu.au  
