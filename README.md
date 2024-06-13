@@ -10,8 +10,11 @@ The radial point interpolation method (RPIM) is a powerful meshless method for c
                
 This paper has been accepted by **Computer Methods in Applied Mechanics and Engineering**. For more details in terms of implementations and more interesting numerical examples, please refer to our paper.
 
+# Run code
+Please run the file "RPIM_NNS_main.m" in each case. All the input data is prepared in "Coord.mat". Two radial basis functions (RBFs), namely the Gaussian type RBF and the fifth-order piece-wise RBF, are available. The output (results) are also saved in ".m" files.
+
 # Paper link
-https://
+Will be available soon.
 
 # Enviornmental settings
  - MATLAB 2022b
