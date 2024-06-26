@@ -26,14 +26,14 @@ Please run the file "RPIM_NNS_main.m" in each case. All the input data is prepar
 </p>
 
 # Paper link
-Will be available soon.
+https://doi.org/10.1016/j.cma.2024.117159
 
 # Enviornmental settings
  - MATLAB 2022b
 
 # Cite as
 <p align="justify">
-[1] J. Bai, G.-R. Liu, T. Rabczuk, Y. Wang, X.-Q. Feng, Y.T. Gu, A robust radial point interpolation method empowered with neural network solvers (RPIM-NNS) for nonlinear solid mechanics, Computer Methods in Applied Mechanics and Engineering (2024). 
+[1] J. Bai, G.-R. Liu, T. Rabczuk, Y. Wang, X.-Q. Feng, Y.T. Gu, A robust radial point interpolation method empowered with neural network solvers (RPIM-NNS) for nonlinear solid mechanics, Computer Methods in Applied Mechanics and Engineering 429 (2024) 117159. 
 </p>
 
 # Contact us
